@@ -43,7 +43,7 @@ where d = e^-1 mod euler
     ```
     python client.py
     
-##Configuration
+## Configuration
 - You can modify the server's host and port by changing the values in the server.py file.
 - The default host is localhost and the default port is 12345.
 
