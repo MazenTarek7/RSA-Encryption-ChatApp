@@ -2,6 +2,11 @@
 
 RSA Encryption Chat is a simple client-server chat application that uses the RSA encryption algorithm to secure the communication between the client and the server. The server generates a pair of public and private keys, and the client encrypts the messages using the server's public key before sending them the server then decrypts this message using his private key and vice versa.
 
+## Theme
+
+Theme used for the project is the azure.tcl theme made by @rdbende
+you can check it out on his github: https://github.com/rdbende/Azure-ttk-theme
+
 ## Features
 
 - Secure communication between client and server using RSA encryption
