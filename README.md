@@ -6,6 +6,7 @@ RSA Encryption Chat is a simple client-server chat application that uses the RSA
 
 Theme used for the project is the azure.tcl theme made by @rdbende
 you can check it out on his github: https://github.com/rdbende/Azure-ttk-theme
+you have to download the theme from his github and add it to the project's directory to work
 
 ## Features
 
