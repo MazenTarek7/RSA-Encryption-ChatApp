@@ -32,16 +32,16 @@ where d = e^-1 mod euler
    
 2. Navigate to the project directory:
     ```
-    cd rsa-encryption-chat
+    cd "pathHere"
 3. Install the dependencies:
     ```
     pip install -r requirements.txt
 4. Start the server:
     ```
-    python server.py
+    python rsa_ServerGUI.py
 5. Start the client:
     ```
-    python client.py
+    python rsa_ClientGUI.py
     
 ## Configuration
 - You can modify the server's host and port by changing the values in the server.py file.
